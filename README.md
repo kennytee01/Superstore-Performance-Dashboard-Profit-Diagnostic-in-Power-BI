@@ -54,11 +54,13 @@ I did not stop at finding these. I sized the fix: capping discounts on the three
 
 **Page 1, Superstore Performance Overview**
 KPI row (Profit, Sales, Margin, Orders, each with a live year-over-year indicator), a dual-axis Sales-vs-Profit trend line, and a sub-category profit ranking, color-coded so loss-makers are impossible to miss.
+**Superstore_Performance**
+![Superstore_Performance](Superstore_Performance_Overview.png)
 
 **Page 2, Regional & Category Dashboard**
 The discount-versus-profit scatter chart, a regional profit treemap, and a plain-language Key Insights and Recommendation panel written for a business audience, not a technical one.
-
----
+**Regional_Category**
+![Regional_Category](Regional_Category_Dashboard.png)
 
 ## Tools
 
